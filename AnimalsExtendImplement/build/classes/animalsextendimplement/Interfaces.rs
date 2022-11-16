@@ -1,0 +1,3 @@
+animalsextendimplement.Swimable
+animalsextendimplement.Moveabe
+animalsextendimplement.Flyable

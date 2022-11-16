@@ -1,0 +1,2 @@
+enumwithswitch.Size
+enumwithswitch.Test

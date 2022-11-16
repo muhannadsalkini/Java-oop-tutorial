@@ -1,0 +1,3 @@
+listinterface.Moveabe
+listinterface.Flyable
+listinterface.Swimable

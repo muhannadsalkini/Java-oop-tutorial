@@ -1,0 +1,3 @@
+saveload.AgeComparator
+saveload.NameComparator
+saveload.WieghtComparator
